@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @satis-apex
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning vue and laravel
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working with vue3, laravel and few other frameworks
 - 📫 How to reach me satish.maharjan55@gmail.com
 
 <!---
